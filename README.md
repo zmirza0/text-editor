@@ -12,13 +12,13 @@
 
 
   ## Description
-    
+   This is a text editor you can use within the browser.
    ## Installation
-   You need to clone the repository.
+   Run ```npm i```
    ## Usage
-   You can open the terminal in VS code and run node, then simply answer the prompts given. After that, your ReadME file will be generated. 
+   Deployed link: https://pure-basin-84830.herokuapp.com/ 
    ## Credits/Contribution
-   Made by Zarrar Raja, no contribution needed.
+   N/A
    ## License
    None.
    ## Tests
